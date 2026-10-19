@@ -1,0 +1,12 @@
+KI & Ethik – Klasse 1 Demo
+
+So startest du:
+1. Diesen Ordner aus der ZIP-Datei entpacken.
+2. index.html doppelklicken.
+3. Ein Kapitel in der Navigation wählen.
+
+Kein Programm muss installiert werden. Internet ist nach dem Download nicht nötig.
+Zum Drucken: Navigation > Druckbereich > Druckdialog öffnen.
+
+Bitte lies für alle Hinweise zur Nutzung die README.md.
+Demo-Fassung zur fachlichen Prüfung; noch nicht erprobt oder offiziell abgestimmt.
