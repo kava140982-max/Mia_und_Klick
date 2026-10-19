@@ -1,5 +1,8 @@
 # KI & Ethik – Klasse 1 (Demo)
 
+[![Besuche](https://hits.sh/github.com/kava140982-max/Mia_und_Klick.svg?label=Besuche)](https://hits.sh/github.com/kava140982-max/Mia_und_Klick/) · [🌐 Mia & Klick im Browser öffnen](https://kava140982-max.github.io/Mia_und_Klick/)
+
+
 Eine deutschsprachige, offline nutzbare Demo-Lernreise für die erste Klasse. Sie führt Mia und den kleinen Roboter Click durch sechs Unterrichtskapitel und eine längere Wiederholungsphase. Zu jedem Kapitel gibt es eine Geschichte, eine Entdeckungsaufgabe, eine kurze Erklärung, Aufgaben in drei Niveaus, eine offene Reflexionsfrage und Hinweise für Lehrkräfte. Dazu kommen ein Druckbereich, ein Glossar und eine Seite für Familien.
 
 > **Entwicklungsstand:** Dies ist eine Demo-Fassung zur fachlichen Prüfung und Weiterentwicklung. Sie ist nicht empirisch erprobt, nicht offiziell an Lehrpläne angepasst und ersetzt keine fachliche Prüfung oder schulische Freigabe. Die angehängte Sicherheits-ZIP diente als Orientierung für sichere lokale Software. Sie ist kein Nachweis, dass das Unterrichtsmaterial pädagogisch oder technisch zertifiziert wäre.
